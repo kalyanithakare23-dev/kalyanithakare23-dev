@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a second-year Computer Science Engineering student with a keen interest in Software Development and Artificial Intelligence. I am passionate about exploring new technologies, strengthening my programming skills, and understanding how technology can be used to solve real-world problems.
+
+I have a foundation in C programming, along with basic knowledge of Python and Java. I am continuously working on improving my technical knowledge, problem-solving abilities, and understanding of software development concepts while exploring the growing field of AI.
+
+Participating in a college hackathon has given me an opportunity to explore innovative ideas, collaborate with others, and gain exposure to technology-driven problem-solving.
+
+Beyond technology, I have completed the Madhyama Purna examination in classical singing, reflecting my dedication, discipline, and commitment to continuous learning.
+
+I believe in learning by doing, embracing new challenges, and growing through meaningful experiences. I look forward to expanding my technical expertise and contributing to projects that create practical and meaningful impact.
